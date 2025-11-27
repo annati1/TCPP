@@ -28,10 +28,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-BOT_TOKEN = "8557675719:AAHSr7GeJ9jiDh8ej-8m0o_0-5uul1KEmTE"  # Replace with your bot token
+BOT_TOKEN = "8444838735:AAF6iOc3kotB2JrODAq-_cy2rtWtGZcap9M"  # Replace with your bot token
 
 # OWNER CONFIGURATION - Replace with your Telegram User ID
-OWNER_USER_ID = 6334631702  # CHANGE THIS TO YOUR ACTUAL TELEGRAM USER ID
+OWNER_USER_ID = 8453062961  # CHANGE THIS TO YOUR ACTUAL TELEGRAM USER ID
 # To get your Telegram User ID, message @userinfobot on Telegram
 
 # Load emotes from JSON file
